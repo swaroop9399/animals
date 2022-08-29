@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Class>
+@{
+    ViewData["Title"] = "AllData";
+}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>AID</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="@item.AID">
+                <td>@item.AID</td>
+                <td>@item.Name</td>
+                <td>@item.City</td>
+                <td><a href="/Home/EditProcess/@item.AID" class="btn btn-primary">Edit</a></td>
+                <td><a href="/Home/DeleteProcess/@item.AID" class="btn btn-danger">Delete</a></td>
+                
+            </tr>
+        }
+
+    </tbody>
+
+</table>
