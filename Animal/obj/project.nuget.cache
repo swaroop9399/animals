@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8JPEx4LbR7IBaVI9qBkv8a419lsDQy44iDbRr3Rr/yXYsK8gMKGQQBYm7AmbWbB3Gg8rAWwiZLSFbF2OyTPRJQ==",
+  "dgSpecHash": "gJyA1crR+/s7OTMNX3A5RS+3mmXsNMK9ROhQaTejPXM8kej8Vk1qy1N5VIDEBJxQuY+5tWwqv18lnd3vPxu+Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\Animal.csproj",
+  "projectFilePath": "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\Animal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swaroop\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

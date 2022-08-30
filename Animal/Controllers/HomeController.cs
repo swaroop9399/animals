@@ -52,5 +52,13 @@ namespace Animal.Controllers
             return View(a);
         }
 
+
+        public RedirectResult Update(Class u)
+        {
+            string update = "update animals set Name = @name, City = @city where AID = @AID";
+            IDbConnection con = new SqlConnection(conString);
+            con.Execute(update, u);
+            return Redirect("/");
+        }
     }
 }

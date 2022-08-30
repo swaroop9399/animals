@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\Animal.csproj": {}
+    "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\Animal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\Animal.csproj": {
+    "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\Animal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\Animal.csproj",
+        "projectUniqueName": "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\Animal.csproj",
         "projectName": "Animal",
-        "projectPath": "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\Animal.csproj",
+        "projectPath": "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\Animal.csproj",
         "packagesPath": "C:\\Users\\swaroop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swaroop\\source\\repos\\Animal\\Animal\\obj\\",
+        "outputPath": "C:\\Users\\swaroop\\source\\repos\\animal\\Animal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
